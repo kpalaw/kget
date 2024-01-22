@@ -1,3 +1,4 @@
+
 #include <string>
 #include <stdio.h>
 #include <sys/socket.h>
@@ -15,6 +16,8 @@
 #include <cstring>
 #include <cassert>
 #include <boost/regex.hpp>
+
+
 
 
 using namespace std;
@@ -207,6 +210,7 @@ int main(int argc,char* argv[]){
       ReqAndRes.getWeb(); //default to www.google.com 
     }
     
+
     ReqAndRes.getWeb();    
     return 0;
 }
