@@ -202,7 +202,7 @@ if (regex_search(url, matchStr, regExWww)){//www
 
 int main(int argc,char* argv[]){
 
-  myUrl test;
+  myUrl test;//
 	myUrl ReqAndRes;
 
     if (argc >=2 ) {
