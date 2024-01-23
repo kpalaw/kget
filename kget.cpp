@@ -17,9 +17,6 @@
 #include <cassert>
 #include <boost/regex.hpp>
 
-
-
-
 using namespace std;
 
 class myUrl {
