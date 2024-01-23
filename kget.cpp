@@ -202,6 +202,7 @@ if (regex_search(url, matchStr, regExWww)){//www
 
 int main(int argc,char* argv[]){
 
+  myUrl test;
 	myUrl ReqAndRes;
 
     if (argc >=2 ) {
@@ -210,9 +211,6 @@ int main(int argc,char* argv[]){
       ReqAndRes.getWeb(); //default to www.google.com 
     }
     
-
-    ReqAndRes.getWeb();   
-    ReqAndRes.getWeb();  
     return 0;
 }
 
