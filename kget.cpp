@@ -211,7 +211,8 @@ int main(int argc,char* argv[]){
     }
     
 
-    ReqAndRes.getWeb();    
+    ReqAndRes.getWeb();   
+    ReqAndRes.getWeb();  
     return 0;
 }
 
