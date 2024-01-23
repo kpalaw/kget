@@ -23,8 +23,6 @@ kget is a simple HTTP request programme. We can run kget <url> to get the web pa
     $kget www.google.com
 
 
- ![The result will be like this](https://photos.app.goo.gl/49aaroD2LFDp7x6g8 "a title")
- 
 ## kget Diagram
 
 ```mermaid
