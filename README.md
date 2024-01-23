@@ -22,6 +22,9 @@ kget is a simple HTTP request programme. We can run kget <url> to get the web pa
     or
     $kget www.google.com
 
+## The result screenshot
+![Result return from google server.](https://github.com/kpalaw/kget/assets/16006116/b0be8b40-dd91-4a1a-8139-4fd6bce8afd9)
+
 
 ## kget Diagram
 
