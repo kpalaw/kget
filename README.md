@@ -1,5 +1,6 @@
 ## Simple HTTP Client in C++
-kget is a simple HTTP request programme. We can run kget <url> to get the web page eg. $kget [www.google.com](http://www.google.com), kget will return the html page back but in the text form.
+kget is a simple HTTP request programme. We can run kget <url> to get the web page. 
+eg. $kget [www.google.com](http://www.google.com), kget will return the html page back but in the text form.
 
 ## Install Boost Library
   
